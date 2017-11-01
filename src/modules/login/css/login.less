@@ -1,0 +1,203 @@
+.login{
+  @color9: #999999;
+  @color3: #333333;
+  @coloryellow: #ff8821;
+  @size13: 13px;
+  @size10: 10px;
+  width: 100%;
+  margin: 20px 0 0 0;
+  padding: 0;
+  overflow: hidden;
+
+  span{
+    color: @color3;
+    font-size: @size13;
+    margin-top: @size10;
+  }
+
+  p{
+    font-size:13px;
+    color: @color9;
+    text-align:center;
+    span{
+      color: @coloryellow;
+      font-size: @size13;
+      margin-top: @size10;
+    }
+  }
+  .sleft{
+    float: left;
+    margin-left: 10px;
+  }
+  .sright{
+    float: right;
+    font-size:@size13;
+    color:#ff8821;
+    text-align:left;
+    margin-right: @size10;
+  }
+  .am-list-body {
+    position: relative;
+    background-color: #fff;
+    border-top: none;
+    padding-left: 0px;
+    .am-list-item {
+      padding-left: 10px;
+      background-color: #fff;
+      border-bottom: 1PX solid #f7f7f7;
+      min-height: 0px;
+    }
+  }
+  .am-list-body:after {
+    display: block;
+    position: absolute;
+    content: '';
+    width: 100%;
+    border: none;
+  }
+  .am-button {
+    width: 100%;
+    display: inline-block;
+    outline: 0 none;
+    -webkit-appearance: none;
+    -webkit-box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    font-size: 36px;
+    height: 72px;
+    line-height: 48px;
+    border-top-left-radius: 0.05rem;
+    border-top-right-radius: 0.05rem;
+    border-bottom-left-radius: 0.05rem;
+    border-bottom-right-radius: 0.05rem;
+    -webkit-background-clip: padding-box;
+    color: #ffffff;
+    background-color: #434343;
+    border: 1PX solid #434343;
+    span {
+      color: #fff;
+      font-size: 36px;
+      margin-top: 10px;
+    }
+  }
+  .am-list .am-list-item.am-input-item {
+    height: 120px;
+    padding-left: 0.15rem;
+    padding-right: 0.15rem;
+    min-height: 0.7rem;
+    position: relative;
+
+    :after {
+      display: block;
+      position: absolute;
+      content: '';
+      left: 0.15rem;
+      bottom: 0;
+      right: auto;
+      top: auto;
+      width: 100%;
+      border-bottom: 1PX solid #ddd;
+    }
+  }
+
+  .am-list .am-list-item .am-input-control {
+      -webkit-box-flex: 1;
+      -ms-flex: 1;
+      flex: 1;
+      font-size: 32px;
+
+      input {
+        color: @color3;
+        font-size: 32px;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        width: 100%;
+        padding: 0;
+        border: 0;
+        background-color: transparent;
+        line-height: 32px;
+        box-sizing: border-box;
+      }
+
+      ::-webkit-input-placeholder {
+       color: #999!important;
+       font-size: 30px!important;
+      }
+      :-moz-placeholder {
+       color: #999!important;
+       font-size: 30px!important;
+      }
+      ::-moz-placeholder {
+       color: #999!important;
+       font-size: 30px!important;
+      }
+      ::-ms-input-placeholder {
+       color: #999!important;
+       font-size: 30px!important;
+      }
+  }
+
+  .am-list .am-list-item .am-input-label.am-input-label-4 {
+    width: auto;
+  }
+  .am-list .am-list-item .am-input-label {
+      color: #000;
+      font-size: 0.15rem;
+      margin-left: 0;
+      margin-right: 0.1rem;
+      text-align: left;
+      width: auto;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+  }
+  .am-list .am-list-item .am-input-clear {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    font-style: normal;
+    color: #fff;
+    background-color: #ccc;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20fill%3D'%23fff'%20viewBox%3D'0%200%2024%2024'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cpath%20d%3D'M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z'%2F%3E%3Cpath%20d%3D'M0%200h24v24H0z'%20fill%3D'none'%2F%3E%3C%2Fsvg%3E");
+    background-size: 14px auto;
+  }
+  .am-list-body .am-list-item .am-list-line .am-list-content {
+      height: 90px;
+      line-height: 45px;
+      font-size: 15px;
+      color: #333333;
+      padding: 0px;
+  }
+  .code-container{
+    width: 95px;
+    min-width: 95px;
+    text-align: right;
+    border-left: 1px solid #999;
+    font-family:HiraginoSansGB-W3;
+    font-size:15px;
+    color:#999999;
+  }
+  .code-container-default{
+    width: 95px;
+    min-width: 95px;
+    text-align: right;
+    border-left: 1px solid #999;
+    font-family:HiraginoSansGB-W3;
+    font-size:15px;
+    color:#ff8821;
+  }
+  .validity-box{
+    position: absolute;
+    right: 40px;
+    top: 20px;
+    overflow: hidden;
+    img{
+      width: 120px;
+      height: 60px;
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "mobile-mall-dashboard",
+  "version": "1.0.2",
+  "description": "移动商城报表",
+  "entry": {
+    "index": "./src/entry/index.jsx"
+  },
+  "dependencies": {
+    "antd": "^2.8.0",
+    "antd-mobile": "^1.0.6",
+    "classnames": "^2.2.5",
+    "deep-assign": "^2.0.0",
+    "echarts": "^3.3.1",
+    "g2": "^2.1.3",
+    "hotcss": "^2.2.1",
+    "jquery": "^3.2.0",
+    "js-cookie": "^2.1.3",
+    "mobile-login-module": "^1.0.13",
+    "moment": "^2.18.1",
+    "object-assign": "^4.1.1",
+    "qwest": "^4.4.5",
+    "rc-echarts": "^0.3.1",
+    "rc-form": "1.x",
+    "rc-switch": "^1.4.2",
+    "rc-table": "^5.2.14",
+    "react": "15.3.x",
+    "react-dom": "15.3.x",
+    "react-native": "0.34.0",
+    "react-native-md5": "^1.0.0",
+    "react-redux": "^5.0.5",
+    "react-router": "^3.0.0",
+    "redux": "^3.6.0",
+    "roof": "~0.5.4",
+    "store2": "^2.5.0",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {
+    "atool-build": "^0.7.6",
+    "babel-eslint": "^6.0.4",
+    "babel-plugin-dva-hmr": "^0.1.0",
+    "babel-plugin-import": "^1.0.1",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-runtime": "^6.9.2",
+    "copy-webpack-plugin": "4.0.1",
+    "dora": "^0.4.3",
+    "dora-plugin-browser-history": "^0.2.0",
+    "dora-plugin-proxy": "^0.8.5",
+    "dora-plugin-webpack": "^0.8.x",
+    "dora-plugin-webpack-hmr": "^0.2.x",
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.4.2",
+    "eslint-plugin-react": "^5.1.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "glob": "^7.0.5",
+    "mockjs": "^1.0.1-beta2",
+    "postcss-pxtorem": "^4.0.1",
+    "redbox-react": "^1.3.3",
+    "redux-devtools": "^3.3.1",
+    "redux-devtools-dock-monitor": "^1.1.1",
+    "redux-devtools-log-monitor": "^1.1.1",
+    "redux-immutable-state-invariant": "^1.2.4",
+    "redux-logger": "^2.7.0",
+    "redux-promise": "^0.5.3",
+    "webpack-add-module-exports": "0.0.2"
+  },
+  "scripts": {
+    "dev": "dora --plugins \"webpack,webpack-hmr,browser-history?index=/index.html\"",
+    "build": "atool-build -o ./build/${npm_package_family}/${npm_package_name/{npm_package_version}",
+    "lint": "eslint --ext .js,.jsx src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.gag.cn:FE/mobile-mall-dashboard.git"
+  },
+  "keywords": [
+    "移动商城报表"
+  ],
+  "author": "hewenshan,wanglihua",
+  "license": "ISC"
+}

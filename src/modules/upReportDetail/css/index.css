@@ -1,0 +1,115 @@
+.detail-header{
+  overflow: hidden;
+  margin-top: 5px;
+  background: rgb(252, 97, 33);
+}
+.detail-header .img-log{
+  display: inline-block;
+  width: 25%;
+  min-width: 100px;
+  height:100px;
+  overflow: hidden;
+  margin-top: 5px;
+  padding-right: 5px;
+}
+.detail-header .img-log img{
+  width: 100px;
+  height:100px;
+}
+
+.detail-header .title {
+  overflow: hidden;
+  display:block;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  line-height: 32px;
+  font-size: 28px;
+  color:#fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.detail-header .telephone{
+  line-height: 36px;
+  overflow: hidden;
+  font-size: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.detail-header span{
+  color: #f8f8f8;
+  font-size: 24px;
+}
+.detail-header .info{
+  display: inline-block;
+  width: 95%;
+  overflow: hidden;
+  padding-left: 10px;
+}
+.detail-header .info a{
+  color: #fff;
+  display: inline-block;
+  line-height: 32px;
+}
+.detail-header .phone {
+  text-decoration: underline;
+  overflow: hidden;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 30px;
+  height: 30px;
+  vertical-align: baseline;
+}
+.detail-header .phone img{
+  width: 30px;
+  height: 30px;
+}
+.detail-header .tel{
+  display: inline-block;
+}
+
+.upreport-detail{
+  color: #333;
+}
+.fixclassname{
+  position: fixed;
+  top:0px;
+  z-index: 99;
+  width: 95%;
+  padding-top: 5px;
+  background: #fff;
+}
+.fixclassname .rc-table-placeholder{
+  display: none;
+}
+.fixclasstable{
+  margin-top: 85px;
+}
+.am-wingblank.am-wingblank-sm{
+  overflow: hidden;
+}
+.am-table th, .am-table td{
+  padding: 15px 10px;
+  word-break:break-all;
+}
+.upreport-detail .am-table td {
+  font-size: 18px;
+}
+
+.row {
+  padding: 0 0.3rem;
+  background-color: white;
+}
+.row-title {
+  height: 1rem;
+  line-height: 1rem;
+  color: #888;
+  font-size: 0.36rem;
+  border-bottom: 1px solid #F6F6F6;
+}
+.row-text {
+  display: inline-block;
+  font-size: 0.32rem;
+  line-height: 1;
+}

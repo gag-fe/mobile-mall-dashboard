@@ -1,0 +1,924 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"h",
+				"href	(entity.html)"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"br",
+				"break-all"
+			],
+			[
+				"len",
+				"length	(entityCtrl.js)"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"sc",
+				"scroll	(entity.html)"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"sh",
+				"shop"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"ta",
+				"target	(entity.html)"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"payInfoc",
+				"payInfoConfig	(entity.html)"
+			],
+			[
+				"pay",
+				"payInfo	(entity.html)"
+			],
+			[
+				"u",
+				"undefined"
+			],
+			[
+				"cl",
+				"click	(entity.html)"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"SEM",
+				"sem-remarketing-proxy"
+			],
+			[
+				"st",
+				"status	(proxy.html)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fb",
+				"fb_price"
+			],
+			[
+				"URL",
+				"URL_YAHOO"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"di",
+				"display	(category-unit.css)"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"U",
+				"Util"
+			],
+			[
+				"cos",
+				"console	(category-unit.js)"
+			],
+			[
+				"in",
+				"index	(main-template.tpl)"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"_r",
+				"_rendBanner"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"_",
+				"_position"
+			],
+			[
+				"attr",
+				"attrs"
+			],
+			[
+				"s",
+				"setup"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"ele",
+				"element	(exhibition-m.vm)"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"BA",
+				"background"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"hei",
+				"height	(category-unit.css)"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"hid",
+				"hide	(exhibitorList.js)"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"pre",
+				"parent"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"tag",
+				"target"
+			],
+			[
+				"debu",
+				"debugger"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"adroll",
+				"adroll_cookies"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"cate",
+				"categoryId"
+			],
+			[
+				"vi",
+				"visibility	(index.css)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"img",
+				"imgTag"
+			],
+			[
+				"en",
+				"element	(page.css)"
+			],
+			[
+				"ret",
+				"returnResult"
+			],
+			[
+				"SR",
+				"script	Tag"
+			],
+			[
+				"ar",
+				"agreement	(page.css)"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ru",
+				"return"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"cd",
+				"cd"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"cid",
+				"cidName"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"cr",
+				"cursor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Format: Javascript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alibaba/work/react-transform-boilerplate/index.html",
+		"/Users/alibaba/work/react-transform-boilerplate/src/App.js",
+		"/Users/alibaba/work/react-transform-boilerplate/src/colors.js",
+		"/Users/alibaba/work/dora-plugin-hmr/node_modules/ansi-escapes/package.json",
+		"/Users/alibaba/.ssh/github_rsa",
+		"/Users/alibaba/.ssh/id_rsa.pub",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/index.html",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/app/statistics/yearBasis/basisCtrl.js",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/app/statistics/entity/entityCtrl.js",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/app/statistics/commodity/commodity.html",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/app/statistics/commodity/commodityCtrl.js",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/app/statistics/yearBasis/year-basis.html",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/assets/global/bower_components/bootstrap-table/dist/extensions/angular/bootstrap-table-angular.js",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/mainCtrl.js",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/js/common.js",
+		"/Users/alibaba/gag-pc-dashboard/dist/app/statistics/entity/entityCtrl.js",
+		"/Users/alibaba/gag-pc-dashboard/FE.dashboard-1.2.5_stable.tar.gz",
+		"/Users/alibaba/gag-pc-dashboard/angularjs/app/statistics/entity/entity.html",
+		"/Users/alibaba/Downloads/mailattachment/CriteoJSLoader解释.txt",
+		"/Users/alibaba/Downloads/mailattachment/JS库V361无依赖/JS_HTTP_no_remote.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/json/default-data.js",
+		"/Users/alibaba/workbench/sc-affiliate/sem-remarketing/README.md",
+		"/Users/alibaba/workbench/scc-category-unit-bfk/src/js/module/category-list.js",
+		"/Users/alibaba/workbench/scc-category-unit-bfk/package.json",
+		"/Users/alibaba/workbench/sc-header-footer/package.json",
+		"/Users/alibaba/workbench/scc-category-unit-bfk/src/js/module/extend-recommend-products.js",
+		"/Users/alibaba/workbench/scc-category-unit-bfk/src/js/module/extend-category-banner.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/json/date-initializes-combination.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/json/data.js",
+		"/Users/alibaba/workbench/sc-header-footer/node_modules/@alife/scc-category-unit/src/template/main-template.tpl",
+		"/Users/alibaba/workbench/sc-header-footer/node_modules/@alife/scc-category-unit/src/css/category-unit.css",
+		"/Users/alibaba/workbench/sc-header-footer/header/modules/category-unit/category-unit.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/js/category-unit.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/css/category-unit.css",
+		"/Users/alibaba/workbench/scc-category-unit/src/template/main-template.tpl",
+		"/Users/alibaba/workbench/scc-category-unit/examples/category-unit.md",
+		"/Users/alibaba/workbench/scc-category-unit/src/template/child-template.tpl",
+		"/Users/alibaba/workbench/scc-category-unit/package.json",
+		"/Users/alibaba/workbench/scc-category-unit/examples/category-unit-action.md",
+		"/Users/alibaba/workbench/sc-header-footer/node_modules/@alife/scc-category-unit/src/js/category-unit.js",
+		"/Users/alibaba/workbench/sc-header-footer/header/entrances/globalhome-everlogin/header.js",
+		"/Users/alibaba/workbench/sc-header-footer/header/common/header_base.js",
+		"/Users/alibaba/workbench/sc-header-footer/node_modules/@alife/scc-category-unit/src/template/child-template.tpl",
+		"/Users/alibaba/workbench/sc-header-footer/node_modules/@alife/scc-category-unit/category-unit.js",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-sortstudy/mm-p4p-ws-seller-video-sortstudy.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-sortstudy-v3/mm-p4p-ws-seller-video-sortstudy-v3.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-sortstudy-v3-test/mm-p4p-ws-seller-video-sortstudy-v3-test.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-sortstudy-video-v4/mm-p4p-ws-seller-video-sortstudy-video-v4.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-stepstudy/mm-p4p-ws-seller-video-stepstudy.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-stepstudy-v2/mm-p4p-ws-seller-video-stepstudy-v2.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-video-stepstudy-v3/mm-p4p-ws-seller-video-stepstudy-v3.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-sc-seller-video-study-sort/mm-p4p-sc-seller-video-study-sort.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-p4p-ws-seller-aliexpressp4p-directions/mm-p4p-ws-seller-aliexpressp4p-directions.php",
+		"/Users/alibaba/workdisk/tms/src/b2b/modules/mm-sc-recommend-categorys-products/mm-sc-recommend-categorys-products.php",
+		"/Users/alibaba/QGG-DSD/web/static/www/css/src/index.css",
+		"/Users/alibaba/workbench/sc-affiliate/sem-remarketing/sem-remarketing.js",
+		"/Users/alibaba/workbench/intl-straw/htdocs/js/6v/biz/common/sem-remarketing/proxy.html",
+		"/Users/alibaba/workbench/intl-straw/htdocs/js/6v/biz/common/sem-remarketing/sem-remarketing.js",
+		"/Users/alibaba/workbench/sc-affiliate/node_modules/@alife/alpha-security/security.js",
+		"/Users/alibaba/workbench/sc-affiliate/sem-remarketing/proxy.html",
+		"/Users/alibaba/QGGResourceFiles/demo/css/src/page.css",
+		"/Users/alibaba/QGGResourceFiles/demo/css/src/structure/grids.css",
+		"/Users/alibaba/workbench/scc-category-unit/src/js/widgets/extend-category-banner.js",
+		"/Users/alibaba/workbench/sc-exhibition/pc/common/css/no-result.scss",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/css/no-result.scss",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/home/exhibitiondetail/src/exhibitinformer.tpl",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/exhibitiondetail/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/home/exhibitiondetail/src/banner.tpl",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/account-info-m/account-info-m.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/account-info-m/account-info-m.tpl",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/exhibitiondetail/exhibitorList.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/components/go-top/index.js",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/home/control/exhibition/exhibition-p.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/home/control/exhibition/exhibition-m.vm",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/searchweb/company/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/exhibitiondetail/index.scss",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/home/exhibitiondetail/index.scss",
+		"/Users/alibaba/workbench/sc-exhibition/pc/common/js/movingboxes.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/index/index.scss",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/account-info-m/account-info-m.scss",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/dashboard/home/index.scss",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/dashboard/home/index.css",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/home/exhibitiondetail/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/exhibitiondetail/index.css",
+		"/Users/alibaba/workbench/sc-exhibition/pc/common/js/account-info.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/css/common.scss",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/dashboard/watchlist/index.js",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/base/control/header-m-new.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/searchweb/control/company/search-m.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/base/control/header-m-banner.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/base/control/header-m.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/base/control/sile-menu-m.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/home/control/company/index-m.vm",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/company/index.scss",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/widget.js",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/dashboard/control/planner/index-m.vm",
+		"/Users/alibaba/workbench/sc-exhibition/node_modules/@alife/alpha-widget/widget.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/company/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/dashboard/home/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/dashboard/custmanage/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/account-info-m/account-info2-m.tpl",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/dashboard/planner/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/dashboard/messages/index.js",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/dashboard/control/watchlist/index-m.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/dashboard/control/home/index-m.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/dashboard/control/messages/index-m.vm",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/dashboard/control/custmanage/custmanage-m.vm",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/dashboard/inform/index.js",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/example/exhibitors.html",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/account-info-m/untitled",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/components/account-info-m.js",
+		"/Users/alibaba/workbench/sc-exhibition/pc/common/js/slide.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/json/data.json",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/exhibitiondetail/src/exhibitor.tpl",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/page/home/exhibitiondetail/src/exhibitInformer.tpl",
+		"/Users/alibaba/workbench/exh-web/exh-web/bundle/war/src/main/webapp/templates/base/control/header-p-banner.vm",
+		"/Users/alibaba/workbench/sc-exhibition/pc/page/home/exhibitiondetail/index.css",
+		"/Users/alibaba/workbench/scc-category-unit/src/template/main-extend.tpl",
+		"/Users/alibaba/workbench/scc-category-unit/src/js/module/extend-category-banner.js",
+		"/Users/alibaba/workbench/scc-category-unit/src/template/extend-recommend-products.tpl",
+		"/Users/alibaba/workbench/scc-category-unit/src/template/child-template-bfk.tpl",
+		"/Users/alibaba/workbench/sc-exhibition/mobile/common/zepto/zepto.js",
+		"/Users/alibaba/workbench/sc-exhibition/node_modules/node-sass/build/Release/.deps/Release/obj.target/binding/src/sass_types/factory.o.d",
+		"/Users/alibaba/Desktop/121213.HTML",
+		"/Users/alibaba/workbench/sc-exhibition/node_modules/node-sass/build/Release/.deps/Release/obj.target/binding/src/sass_types/error.o.d",
+		"/Users/alibaba/workbench/sc-exhibition/node_modules/node-sass/build/Release/.deps/Release/obj.target/binding/src/custom_function_bridge.o.d",
+		"/Users/alibaba/workbench/sc-exhibition/node_modules/node-sass/build/Release/.deps/Release/obj.target/binding/src/sass_types/boolean.o.d"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/alibaba/gag-pc-dashboard/angularjs",
+			"/Users/alibaba/workdisk/tms/src/b2b/modules",
+			"",
+			"/Users/alibaba/workdisk/tms/src/b2b/modules",
+			"",
+			"<open files>",
+			"",
+			"this.",
+			"/Users/alibaba/workbench/sc-arcadia/market",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"00112233442A",
+			"/Users/duke/www/gag-pc-dashboard",
+			"结账单小票",
+			"1478002",
+			"1478002093916",
+			":",
+			"1478002",
+			":",
+			"，",
+			":",
+			"builderService",
+			"quickViewService",
+			"applicationService",
+			"gooagoodomain",
+			"Configuration",
+			"cookie",
+			"cookies",
+			"gooagoodomain",
+			"alert",
+			"a'l'er",
+			"console",
+			"alert",
+			"glyphicon",
+			"see-info",
+			"glyphicon",
+			"glyphicon-eye-open",
+			"<i",
+			"i",
+			"gooagoodomain",
+			"payInfoShow",
+			"trendMapShow",
+			"getTimeCondiTrendMap",
+			"setSellMainTime",
+			"downloadSaleTrendAll",
+			"shop-list-download-url-trend",
+			"downloadSaleTrend",
+			"showWeek",
+			"downloadBillList",
+			"shop-list-download",
+			"setSellMainTime",
+			"cosnole",
+			".trend-map .content-left",
+			".trend-map .content-left .shop-list-box-wrap",
+			".trend-map .content-left",
+			".trend-map .content-left .shop-list-box-wrap .shop-list-box",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map .table-list-wrap",
+			"char",
+			"chart",
+			".trend-map .content-left",
+			"sellNoteTime",
+			"getTimeCondiTrendMap",
+			"setSellNoteTime",
+			"setSellMainTime",
+			"alert",
+			"getTimeCondiTrendMap",
+			"setSellNoteTime",
+			"$(\"#shopDayPayInfo\")",
+			"console",
+			"trend-map-header",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map .trend-map-header",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map table",
+			".trend-map .trend-map-table-box td",
+			"640px",
+			"trend-map-table-box",
+			".trend-map .trend-map-table-box .tbody",
+			"window",
+			"table",
+			".pay-info table",
+			".pay-info .pay-info-table .tbody",
+			".trend-map .content-left",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map .table-list-wrap",
+			"console",
+			"pay-info-footer",
+			"console",
+			"yearBasisGridInit",
+			"yearBasisChart",
+			"yearBasisGridInit",
+			".pay-info .pay-info-footer ul",
+			"console",
+			"alert",
+			"debugger",
+			"yearBasisGridInit",
+			".trend-map .table-list-wrap",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map .content-left .shop-list-box-wrap",
+			".trend-map .panel-content",
+			".pay-info .pay-info-header",
+			"heji",
+			"getTimeCondiTrendMap",
+			"setSellNoteTime",
+			"amout",
+			"{\n",
+			"amout",
+			"setSellMainTime",
+			"getTimeCondiTrendMap",
+			"getTimeCondiPayInfo",
+			"timeCondiTrendMap",
+			"timeCondiPayInfo",
+			"trend-map-header",
+			"saleTotalAmount",
+			"timeCondiTrendMap",
+			"sellNoteTime",
+			"shopDayPayInfo",
+			"timeCondiPayInfo",
+			"shopListsInfo",
+			"shopInfoLists",
+			".trend-map .content-left",
+			"header",
+			"footer",
+			".trend-map .table-list-wrap",
+			".trend-map .content-right",
+			".trend-map .content-left .shop-list-box-wrap",
+			".trend-map .content-left",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map .table-list-wrap",
+			".trend-map .content-left .shop-list-box-wrap",
+			".trend-map .content-left",
+			".trend-map .table-list-wrap",
+			".trend-map .trend-map-table-box .tbody",
+			".trend-map .table-list-wrap",
+			".trend-map .content-left",
+			".trend-map .content-left .shop-list-box-wrap",
+			".pay-info .pay-info-table .tbody",
+			"see"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.",
+			"		\"text\": \"\",\n		\"state\":\"1\",\n		\"class\":\"collapsed\"",
+			" ",
+			"",
+			"$category",
+			"html5",
+			".p4p-express",
+			"html|",
+			"|",
+			"]|",
+			"|",
+			"responseStart",
+			"navigationStart"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 90.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 115.0,
+	"status_bar_visible": true
+}
